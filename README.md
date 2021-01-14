@@ -27,7 +27,7 @@ This dataset was created by a Kaggle user, GregorySmith, it contains 16,598 vide
 * Global_Sales - Total worldwide sales.
 
 
-## Some of the questions I hope to answer using exploratory data analysis
+## Exploratory Data Analysis Questions
 
 * What was the best year for video game sales?
 
