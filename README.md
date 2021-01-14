@@ -2,7 +2,7 @@
 
 This dataset was created by a Kaggle user, GregorySmith, it contains 16,598 video game titles that were sold between 1980 and 2017 and each title has at least 100,000 copies sold. Link to dataset: https://www.kaggle.com/gregorut/videogamesales
 
-## Dataset Columns:
+## Dataset Columns
 
 * Rank - Ranking of overall sales
 
@@ -27,7 +27,7 @@ This dataset was created by a Kaggle user, GregorySmith, it contains 16,598 vide
 * Global_Sales - Total worldwide sales.
 
 
-## Some of the questions I hope to answer using exploratory data analysis:
+## Some of the questions I hope to answer using exploratory data analysis
 
 * What was the best year for video game sales?
 
